@@ -8,3 +8,19 @@ that is, when a number is divided by the number before it, a series that approac
 The Fibonacci sequence starts from 0 and goes on to infinity. 
 Each digit is added up with the previous digit. 
 The result obtained is written on the right side of the figure.
+
+ 0 + 1 = 1
+
+ 1 + 1 = 2
+
+ 1 + 2 = 3
+
+ 2 + 3 = 5
+
+ 3 + 5 = 8
+
+ 5 + 8 = 13
+
+ 13 + 8 = 21
+
+ 21 + 8 = 34
