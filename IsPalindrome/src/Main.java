@@ -25,7 +25,6 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         System.out.println("Please enter a number: ");
         int number = scan.nextInt();
-
         System.out.println(isPalindrome(number));
     }
 }
